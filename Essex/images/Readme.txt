@@ -1,1 +1,1 @@
-Here will be your Images for run OS stacks.
+Server images go in here.
