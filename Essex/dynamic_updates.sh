@@ -30,7 +30,7 @@ vgcreate nova-volumes /dev/sdb1
 
 NOTE: You should use whatever device handle your system has.  Be careful!
 
-When you are done, run './openstack_mysql.sh'
+When you are done, run './install_mysql.sh'
 
 #################################################################################################
 "

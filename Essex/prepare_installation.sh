@@ -41,7 +41,7 @@ iface eth0 inet static
 
 auto eth1
 
-After you are done, do a '/etc/init.d/networking restart', then run './openstack_base_2.sh'
+After you are done, do a '/etc/init.d/networking restart', then run './dynamic_updates.sh
 
 #################################################################################################
 "

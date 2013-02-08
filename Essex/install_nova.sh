@@ -95,6 +95,6 @@ nova-manage floating create --ip_range=$floating_range
 chown -R nova:nova /etc/nova/
 
 echo "#######################################################################################"
-echo "'nova list' and a 'nova image-list' to test.  Do './openstack_horizon.sh' next."
+echo "'nova list' and a 'nova image-list' to test.  Do './install_horizon.sh' next."
 echo "#######################################################################################"
 

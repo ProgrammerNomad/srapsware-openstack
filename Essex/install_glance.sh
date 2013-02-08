@@ -78,5 +78,5 @@ sleep 4
 glance index
 
 echo "#################################################################################################"
-echo "You can now run './openstack_nova.sh' to set up Nova." 
+echo "You can now run './install_nova.sh' to set up Nova." 
 echo "#################################################################################################"
