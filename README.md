@@ -1,3 +1,6 @@
+$mkdir ~/Essex
+$mkdir ~/Folsom
+$mkdir ~/Grizzly
 #Srapsware Openstack
 ===================
 
