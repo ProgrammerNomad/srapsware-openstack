@@ -1,5 +1,3 @@
-$mkdir ~/Essex
-
 #Srapsware Openstack
 ===================
 
