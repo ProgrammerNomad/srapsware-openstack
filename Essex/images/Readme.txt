@@ -1,1 +1,1 @@
-Server images go in here.
+This folder/Directry will store images.
